@@ -1,0 +1,18 @@
+,rule,pred_class,rule_acc,num_examples,num_correct,num_wrong
+0,"([('project_size', 'Small')], 'Waterfall', 25)",Waterfall,1.0,3,3,0
+1,"([('task_visualisation', 'High')], 'Kanban', 9)",Kanban,1.0,1,1,0
+2,"([('dev_time', 'Non-Intensive')], 'Hybrid: Scrum and Kanban', 2)",zero coverage,0.0,0,0,0
+3,"([('requirements_volatility', 'Fixed')], 'RAD', 2)",zero coverage,0.0,0,0,0
+4,"([('prod_complexity', 'Simple')], 'Scrum', 13)",Scrum,1.0,4,4,0
+5,"([('risk_analysis', 'Low')], 'RAD', 18)",RAD,0.75,4,3,1
+6,"([('team_expertise', 'Medium'), ('doc_needed', 'High')], 'Hybrid: Scrum and Waterfall', 9)",Hybrid: Scrum and Waterfall,1.0,2,2,0
+7,"([('risk_analysis', 'Medium')], 'Scrum', 4)",Scrum,0.75,4,3,1
+8,"([('team_size', 'Large (16....)')], 'Hybrid: Scrum and Kanban', 2)",Hybrid: Scrum and Kanban,1.0,2,2,0
+9,"([('testing_intensity', 'After development is done (Non-intensive testing)')], 'Hybrid: Scrum and Kanban', 1)",Hybrid: Scrum and Kanban,0.5,2,1,1
+10,"([('dev_expertise', 'Medium')], 'Scrum', 2)",zero coverage,0.0,0,0,0
+11,"([('user_participation', 'Medium')], 'Hybrid: Scrum and Waterfall', 1)",zero coverage,0.0,0,0,0
+12,"([('requirements_clarity', 'understandable/early defined')], 'RAD', 1)",RAD,1.0,1,1,0
+13,"([('user_participation', 'Low')], 'Spiral', 6)",zero coverage,0.0,0,0,0
+14,"([('doc_needed', 'Low')], 'Scrum', 4)",Scrum,1.0,1,1,0
+15,"([('project_size', 'Medium')], 'Hybrid: Waterfall and Kanban', 1)",zero coverage,0.0,0,0,0
+16,"([('requirements_volatility', 'Changing')], 'RAD', 1)",zero coverage,0.0,0,0,0

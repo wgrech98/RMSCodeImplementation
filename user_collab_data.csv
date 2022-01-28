@@ -1,0 +1,200 @@
+userid,sdlc_characteristic,rating
+0,waterfall: requirements,0
+0,waterfall: risk,1
+0,waterfall:documentation,1
+0,waterfall: stakeholder_involvement,1
+1,waterfall: requirements,0
+1,waterfall: risk,1
+1,waterfall:documentation,1
+1,waterfall: stakeholder_involvement,1
+2,waterfall: requirements,0
+2,waterfall: risk,1
+2,waterfall:documentation,1
+2,waterfall: stakeholder_involvement,1
+3,waterfall: requirements,0
+3,waterfall: risk,1
+3,waterfall:documentation,1
+3,waterfall: stakeholder_involvement,1
+4,waterfall: requirements,0
+4,waterfall: risk,1
+4,waterfall:documentation,1
+4,waterfall: stakeholder_involvement,1
+5,waterfall: requirements,0
+5,waterfall: risk,1
+5,waterfall:documentation,1
+5,waterfall: stakeholder_involvement,1
+6,waterfall: requirements,0
+6,waterfall: risk,1
+6,waterfall:documentation,1
+6,waterfall: stakeholder_involvement,1
+7,spiral: requirements,0
+7,spiral: risk,1
+7,spiral:documentation,0
+7,spiral: stakeholder_involvement,1
+8,spiral: requirements,0
+8,spiral: risk,1
+8,spiral:documentation,0
+8,spiral: stakeholder_involvement,1
+9,spiral: requirements,0
+9,spiral: risk,1
+9,spiral:documentation,0
+9,spiral: stakeholder_involvement,1
+10,spiral: requirements,0
+10,spiral: risk,1
+10,spiral:documentation,0
+10,spiral: stakeholder_involvement,0
+11,spiral: requirements,0
+11,spiral: risk,1
+11,spiral:documentation,0
+11,spiral: stakeholder_involvement,1
+12,spiral: requirements,0
+12,spiral: risk,1
+12,spiral:documentation,0
+12,spiral: stakeholder_involvement,1
+13,spiral: requirements,0
+13,spiral: risk,1
+13,spiral:documentation,0
+13,spiral: stakeholder_involvement,1
+14,scrum: requirements,1
+14,scrum: risk,0
+14,scrum:documentation,0
+14,scrum: stakeholder_involvement,1
+15,scrum: requirements,1
+15,scrum: risk,0
+15,scrum:documentation,0
+15,scrum: stakeholder_involvement,1
+16,scrum: requirements,1
+16,scrum: risk,0
+16,scrum:documentation,0
+16,scrum: stakeholder_involvement,1
+17,scrum: requirements,1
+17,scrum: risk,0
+17,scrum:documentation,0
+17,scrum: stakeholder_involvement,1
+18,scrum: requirements,1
+18,scrum: risk,0
+18,scrum:documentation,0
+18,scrum: stakeholder_involvement,1
+19,scrum: requirements,1
+19,scrum: risk,0
+19,scrum:documentation,0
+19,scrum: stakeholder_involvement,1
+20,scrum: requirements,1
+20,scrum: risk,0
+20,scrum:documentation,0
+20,scrum: stakeholder_involvement,1
+21,scrum: requirements,1
+21,scrum: risk,0
+21,scrum:documentation,0
+21,scrum: stakeholder_involvement,1
+22,scrum: requirements,0
+22,scrum: risk,0
+22,scrum:documentation,1
+22,scrum: stakeholder_involvement,0
+23,scrum: requirements,0
+23,scrum: risk,0
+23,scrum:documentation,1
+23,scrum: stakeholder_involvement,0
+24,scrum: requirements,0
+24,scrum: risk,0
+24,scrum:documentation,1
+24,scrum: stakeholder_involvement,0
+25,scrum: requirements,0
+25,scrum: risk,0
+25,scrum:documentation,1
+25,scrum: stakeholder_involvement,0
+26,scrum: requirements,0
+26,scrum: risk,0
+26,scrum:documentation,1
+26,scrum: stakeholder_involvement,0
+27,scrum: requirements,0
+27,scrum: risk,0
+27,scrum:documentation,1
+27,scrum: stakeholder_involvement,0
+28,scrum: requirements,0
+28,scrum: risk,0
+28,scrum:documentation,1
+28,scrum: stakeholder_involvement,0
+29,scrum: requirements,0
+29,scrum: risk,0
+29,scrum:documentation,1
+29,scrum: stakeholder_involvement,0
+30,scrum: requirements,0
+30,scrum: risk,0
+30,scrum:documentation,1
+30,scrum: stakeholder_involvement,0
+31,scrum: requirements,0
+31,scrum: risk,0
+31,scrum:documentation,1
+31,scrum: stakeholder_involvement,0
+32,scrum: requirements,0
+32,scrum: risk,0
+32,scrum:documentation,1
+32,scrum: stakeholder_involvement,0
+33,waterfall: requirements,0
+33,waterfall: risk,1
+33,waterfall:documentation,1
+33,waterfall: stakeholder_involvement,1
+34,waterfall: requirements,0
+34,waterfall: risk,1
+34,waterfall:documentation,1
+34,waterfall: stakeholder_involvement,1
+35,waterfall: requirements,0
+35,waterfall: risk,1
+35,waterfall:documentation,1
+35,waterfall: stakeholder_involvement,1
+36,waterfall: requirements,0
+36,waterfall: risk,1
+36,waterfall:documentation,1
+36,waterfall: stakeholder_involvement,1
+37,waterfall: requirements,0
+37,waterfall: risk,1
+37,waterfall:documentation,1
+37,waterfall: stakeholder_involvement,1
+38,waterfall: requirements,0
+38,waterfall: risk,1
+38,waterfall:documentation,1
+38,waterfall: stakeholder_involvement,1
+39,waterfall: requirements,0
+39,waterfall: risk,1
+39,waterfall:documentation,1
+39,waterfall: stakeholder_involvement,1
+40,spiral: requirements,0
+40,spiral: risk,1
+40,spiral:documentation,0
+40,spiral: stakeholder_involvement,1
+41,spiral: requirements,0
+41,spiral: risk,1
+41,spiral:documentation,0
+41,spiral: stakeholder_involvement,1
+42,spiral: requirements,0
+42,spiral: risk,1
+42,spiral:documentation,0
+42,spiral: stakeholder_involvement,1
+43,spiral: requirements,0
+43,spiral: risk,1
+43,spiral:documentation,0
+43,spiral: stakeholder_involvement,0
+44,spiral: requirements,0
+44,spiral: risk,1
+44,spiral:documentation,0
+44,spiral: stakeholder_involvement,1
+45,spiral: requirements,0
+45,spiral: risk,1
+45,spiral:documentation,0
+45,spiral: stakeholder_involvement,1
+46,spiral: requirements,0
+46,spiral: risk,1
+46,spiral:documentation,0
+46,spiral: stakeholder_involvement,1
+47,scrum: requirements,1
+47,scrum: risk,0
+47,scrum:documentation,0
+47,scrum: stakeholder_involvement,1
+48,scrum: requirements,1
+48,scrum: risk,0
+48,scrum:documentation,0
+48,scrum: stakeholder_involvement,1
+49,scrum: requirements,1
+49,scrum: risk,0
+49,scrum:documentation,0

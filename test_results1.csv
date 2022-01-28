@@ -1,0 +1,24 @@
+,rule,pred_class,rule_acc,num_examples,num_correct,num_wrong
+0,"([('task_visualisation', 'High')], 'Kanban', 11)",Kanban,1.0,1,1,0
+1,"([('project_size', 'Small')], 'Waterfall', 21)",Waterfall,0.8888888888888888,9,8,1
+2,"([('team_expertise', 'Medium;High')], 'RAD', 5)",zero coverage,0.0,0,0,0
+3,"([('task_visualisation', 'Medium')], 'Hybrid: Scrum and Waterfall', 2)",zero coverage,0.0,0,0,0
+4,"([('task_visualisation', 'High ')], 'Kanban', 2)",zero coverage,0.0,0,0,0
+5,"([('delivery_speed', 'High ')], 'Hybrid: Scrum and Waterfall', 1)",zero coverage,0.0,0,0,0
+6,"([('doc_needed', 'Low'), ('project_size', 'Medium')], 'Scrum', 26)",Scrum,0.8571428571428571,7,6,1
+7,"([('prod_complexity', 'Simple')], 'RAD', 1)",zero coverage,0.0,0,0,0
+8,"([('doc_needed', 'Medium'), ('fund_avail', 'Low')], 'RAD', 19)",RAD,0.75,4,3,1
+9,"([('fund_avail', 'Low')], 'Spiral', 6)",Spiral,1.0,1,1,0
+10,"([('doc_needed', 'Low')], 'Hybrid: Scrum and Kanban', 2)",zero coverage,0.0,0,0,0
+11,"([('user_participation', 'Low')], 'Waterfall', 1)",Waterfall,0.5,2,1,1
+12,"([('testing_intensity', 'After development is done (Non-intensive testing)')], 'Hybrid: Scrum and Kanban', 2)",zero coverage,0.0,0,0,0
+13,"([('dev_expertise', 'Medium')], 'Hybrid: Scrum and Waterfall', 2)",Hybrid: Scrum and Waterfall,1.0,1,1,0
+14,"([('team_size', 'Small (1-5)')], 'Waterfall', 1)",Waterfall,1.0,1,1,0
+15,"([('delivery_speed', 'Medium'), ('project_size', 'Medium')], 'Hybrid: Scrum and Waterfall', 8)",Hybrid: Scrum and Waterfall,1.0,2,2,0
+16,"([('delivery_speed', 'Medium')], 'Spiral', 2)",zero coverage,0.0,0,0,0
+17,"([('requirements_volatility', 'Fixed'), ('dev_time', 'Intensive')], 'RAD', 1)",zero coverage,0.0,0,0,0
+18,"([('requirements_volatility', 'Fixed'), ('risk_analysis', 'High')], 'Waterfall', 1)",zero coverage,0.0,0,0,0
+19,"([('requirements_volatility', 'Fixed')], 'RAD', 1)",zero coverage,0.0,0,0,0
+20,"([('requirements_clarity', 'understandable/early defined')], 'Hybrid: Scrum and Kanban', 1)",zero coverage,0.0,0,0,0
+21,"([('risk_analysis', 'High')], 'Hybrid: Waterfall and Kanban', 1)",zero coverage,0.0,0,0,0
+22,"([('requirements_volatility', 'Changing')], 'Scrum', 1)",zero coverage,0.0,0,0,0

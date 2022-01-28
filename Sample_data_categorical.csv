@@ -1,0 +1,142 @@
+user_id,Requirements,Risk,Documentation,user participation,Class
+1,low,low,high,low,Waterfall
+2,low,medium,high ,low,Waterfall
+3,low,low,high,low,Waterfall
+4,medium,high,high ,low,Spiral 
+5,medium,high,high ,low,Spiral 
+6,medium,high,high ,low,Spiral 
+7,medium,high,high ,low,Spiral 
+8,high,low,low,medium,Scrum 
+9,high ,low,low,high ,Scrum 
+10,high,low,low,medium,Scrum 
+11,high,low,low,medium,Scrum 
+12,high,low,low,medium,Scrum 
+13,high,low,low,medium,Scrum 
+14,medium ,medium ,high ,medium ,Kanban
+15,high ,medium ,high,high,Kanban
+16,medium ,medium ,high ,medium ,Kanban
+17,medium ,medium ,high ,medium ,Kanban
+18,medium ,medium ,high ,medium ,Kanban
+19,medium ,medium ,high ,medium ,Kanban
+20,medium ,medium ,high ,medium ,Kanban
+21,medium ,medium ,high ,medium ,Kanban
+22,medium ,medium ,high ,medium ,Kanban
+23,medium ,medium ,high ,medium ,Kanban
+24,medium ,medium ,high ,medium ,Kanban
+25,medium ,medium ,high ,medium ,Kanban
+26,medium ,medium ,high ,medium ,Kanban
+27,medium ,medium ,high ,medium ,Kanban
+28,medium ,medium ,high ,medium ,Kanban
+29,low,low,high,low,Waterfall
+30,low,medium,high ,low,Waterfall
+31,low,low,high,low,Waterfall
+32,low,low,high,low,Waterfall
+33,low,medium,high ,low,Waterfall
+34,low,low,high,low,Waterfall
+35,low,low,high,low,Waterfall
+36,low,medium,high ,low,Spiral 
+37,low,low,high,low,Spiral 
+38,low,high,medium,high,Spiral 
+39,low,high,medium,high,Spiral 
+40,low,high,medium,high,Spiral 
+41,low,high,medium,high,Spiral 
+42,low,high,medium,high,Spiral 
+43,low,high,medium,high,Spiral 
+44,low,high,medium,high,Spiral 
+45,low,high,medium,high,Spiral 
+46,high ,low,low,high ,Scrum 
+47,high ,low,low,high ,Scrum 
+48,high ,low,low,high ,Scrum 
+49,high ,low,low,high ,Scrum 
+50,high ,low,low,high ,Scrum 
+51,high ,low,low,high ,Scrum 
+52,high ,low,low,high ,Scrum 
+53,high ,low,low,high ,Scrum 
+54,high ,low,low,high ,Scrum 
+55,high ,low,low,high ,Scrum 
+56,high ,low,low,high ,Scrum 
+57,high ,low,low,high ,Scrum 
+58,high ,low,low,high ,Scrum 
+59,high ,low,low,high ,Scrum 
+60,high ,low,low,high ,Scrum 
+61,high ,low,low,high ,Scrum 
+62,medium ,medium ,high ,medium ,Kanban
+63,medium ,medium ,high ,medium ,Kanban
+64,medium ,medium ,high ,medium ,Kanban
+65,medium ,medium ,high ,medium ,Kanban
+66,medium ,medium ,high ,medium ,Kanban
+67,medium ,medium ,high ,medium ,Kanban
+68,medium ,medium ,high ,medium ,Kanban
+69,medium ,medium ,high ,medium ,Kanban
+70,medium ,medium ,high ,medium ,Kanban
+71,medium ,medium ,high ,medium ,Kanban
+72,medium ,medium ,high ,medium ,Kanban
+73,medium ,medium ,high ,medium ,Kanban
+74,medium ,medium ,high ,medium ,Kanban
+75,medium ,medium ,high ,medium ,Kanban
+76,medium ,medium ,high ,medium ,Kanban
+77,low,low,high,low,Waterfall
+78,low,low,high,low,Waterfall
+79,low,low,high,low,Waterfall
+80,low,low,high,low,Waterfall
+81,low,low,high,low,Waterfall
+82,low,low,high,low,Waterfall
+83,low,low,high,low,Waterfall
+84,low,high,medium,high,Spiral 
+85,low,high,medium,high,Spiral 
+86,low,high,medium,high,Spiral 
+87,low,high,medium,high,Spiral 
+88,low,high,medium,high,Spiral 
+89,low,high,medium,high,Spiral 
+90,low,high,medium,high,Spiral 
+91,low,high,medium,high,Spiral 
+92,low,high,medium,high,Spiral 
+93,low,high,medium,high,Spiral 
+94,high ,low,low,high ,Scrum 
+95,high ,low,low,high ,Scrum 
+96,high ,low,low,high ,Scrum 
+97,high ,low,low,high ,Scrum 
+98,high ,low,low,high ,Scrum 
+99,high ,low,low,high ,Scrum 
+100,high ,low,low,high ,Scrum 
+101,high ,low,low,high ,Scrum 
+102,high ,low,low,high ,Scrum 
+103,high ,low,low,high ,Scrum 
+104,high ,low,low,high ,Scrum 
+105,high ,low,low,high ,Scrum 
+106,high ,low,low,high ,Scrum 
+107,high ,low,low,high ,Scrum 
+108,high ,low,low,high ,Scrum 
+109,high ,low,low,high ,Scrum 
+110,medium ,medium ,high ,medium ,Kanban
+111,medium ,medium ,high ,medium ,Kanban
+112,medium ,medium ,high ,medium ,Kanban
+113,medium ,medium ,high ,medium ,Kanban
+114,medium ,medium ,high ,medium ,Kanban
+115,medium ,medium ,high ,medium ,Kanban
+116,medium ,medium ,high ,medium ,Kanban
+117,medium ,medium ,high ,medium ,Kanban
+118,medium ,medium ,high ,medium ,Kanban
+119,medium ,medium ,high ,medium ,Kanban
+120,medium ,medium ,high ,medium ,Kanban
+121,medium ,medium ,high ,medium ,Kanban
+122,medium ,medium ,high ,medium ,Kanban
+123,medium ,medium ,high ,medium ,Kanban
+124,medium ,medium ,high ,medium ,Kanban
+125,low,low,high,low,Waterfall
+126,low,low,high,low,Waterfall
+127,low,low,high,low,Waterfall
+128,low,low,high,low,Waterfall
+129,low,low,high,low,Waterfall
+130,low,low,high,low,Waterfall
+131,low,low,high,low,Waterfall
+132,low,high,medium,high,Spiral 
+133,low,high,medium,high,Spiral 
+134,low,high,medium,high,Spiral 
+135,low,high,medium,high,Spiral 
+136,low,high,medium,high,Spiral 
+137,low,high,medium,high,Spiral 
+138,low,high,medium,high,Spiral 
+139,low,high,medium,high,Spiral 
+140,low,high,medium,high,Spiral 
+141,low,high,medium,high,Spiral 

@@ -1,0 +1,54 @@
+['Waterfall', 'Application (everything else)', 'Fixed', 'understandable/early defined', 
+            'Non-Intensive', 'Small', 'Small (1-5)', 'Simple', 'After development is done (Non-intensive testing)', 'Low', 'High','High', 'High', 
+            'Medium','Low','Low', 'Low']
+
+['RAD', 'System (sits between the hardware and the application software e.g. OSs)', 'Fixed', 'understandable/early defined', 
+            'Intensive', 'Large', 'Large (16....)', 'Complex', 'After each cycle (Intensive testing)', 'High', 'High','High', 'High', 
+            'Medium','Low','Low', 'Low']
+
+['Scrum', 'Application (everything else)', 'Changing', 'unknown/defined later in the lifecycle', 
+            'Intensive', 'Large', 'Medium (6-15)', 'Simple', 'After each cycle (Intensive testing)', 'Low', 'High','High', 'High', 
+            'Low','High','Medium', 'Low']
+
+['Kanban', 'Application (everything else)', 'Changing', 'understandable/early defined', 
+            'Non-Intensive', 'Medium', 'Large (16....)', 'Complex', 'After each cycle (Intensive testing)', 'Medium', 'Medium','High', 'High', 
+            'Medium','High','Medium', 'High']
+
+['Hybrid: Scrum and Waterfall', 'Application (everything else)', 'Changing', 'understandable/early defined', 
+            'Intensive', 'Large', 'Large (16....)', 'Complex', 'After each cycle (Intensive testing)', 'High', 'High','High', 'High', 
+            'High','High','High', 'Low']
+
+['Spiral', 'Utility (performs specific tasks to keep the computer running e.g. antivirus)', 'Changing', 'unknown/defined later in the lifecycle', 
+            'Intensive', 'Large', 'Small (1-5)', 'Complex', 'After each cycle (Intensive testing)', 'High', 'Low','High', 'High', 
+            'Low','Low','Medium', 'Low']
+
+['Kanban', 'Application (everything else)', 'Changing', 'understandable/early defined', 
+            'Non-Intensive', 'Medium', 'Medium (6-15)', 'Simple', 'After each cycle (Intensive testing)', 'Medium', 'Medium','High', 'High', 
+            'Medium','High','Medium', 'High']
+
+
+
+
+['Waterfall', 'Application (everything else)', 'Fixed', 'understandable/early defined', 'Non-Intensive', 'Small', 
+            'Medium (6-15)', 'Simple', 'After development is done (Non-intensive testing)', 'High', 'Low','Low', 'Low', 
+            'High','High','Low', 'Low', 'Low']
+
+['RAD', 'System (sits between the hardware and the application software e.g. OSs)', 'Fixed', 'understandable/early defined', 
+            'Intensive', 'Large', 'Large (16....)', 'Simple', 'After each cycle (Intensive testing)', 'Low', 'High',
+            'High', 'Medium', 'High','Low','High', 'Low', 'Medium']
+
+['Scrum', 'Application (everything else)', 'Changing', 'unknown/defined later in the lifecycle', 
+            'Intensive', 'Medium', 'Small (1-5)', 'Complex', 'After each cycle (Intensive testing)', 'High', 
+            'High','Low', 'High','Low','Medium','High', 'Low', 'Low']
+
+['Kanban', 'Application (everything else)', 'Changing', 'understandable/early defined', 
+            'Non-Intensive', 'Medium', 'Large (16....)', 'Complex', 'After each cycle (Intensive testing)', 
+            'High', 'Medium','High', 'High', 'Medium','Medium','High', 'High', 'Low']
+
+['Hybrid: Scrum and Waterfall', 'Application (everything else)', 'Changing', 'understandable/early defined', 
+            'Intensive', 'Large', 'Large (16....)', 'Complex', 'After each cycle (Intensive testing)', 'High', 
+            'High','High', 'High', 'High','High','High', 'Low', 'Low']
+
+['Spiral', 'Utility (performs specific tasks to keep the computer running e.g. antivirus)', 'Changing', 'unknown/defined later in the lifecycle', 
+            'Intensive', 'Large', 'Small (1-5)', 'Complex', 'After each cycle (Intensive testing)', 'High', 'Medium',
+            'High', 'High','Low','Low', 'Low', 'Low', 'High']
