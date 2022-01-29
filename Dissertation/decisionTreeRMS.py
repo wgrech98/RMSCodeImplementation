@@ -22,6 +22,8 @@ class D3_RMS():
 
             self.dataset = None
 
+            self.model = None
+
             self.f_names = ['requirements_volatility', 
                         'requirements_clarity', 'dev_time', 'project_size', 'team_size', 
                         'prod_complexity', 'testing_intensity', 'risk_analysis', 'user_participation',
@@ -30,7 +32,8 @@ class D3_RMS():
 
     def main(self):
         self.read_csv()
-        self.perform_D3()
+        # self.perform_D3()
+        self.perform_D31()
 
    
     def read_csv(self):
@@ -85,10 +88,10 @@ class D3_RMS():
         for train_index , test_index in kf.split(X):
             X_train , X_test = X.iloc[train_index,:],X.iloc[test_index,:]
             y_train , y_test = y.iloc[train_index] , y.iloc[test_index]
-            model = DecisionTreeClassifier(criterion="entropy", random_state=42,max_depth=17, min_samples_leaf=1)  
+            self.model = DecisionTreeClassifier(criterion="entropy", random_state=42,max_depth=17, min_samples_leaf=1)  
 
-            model.fit(X_train,y_train)
-            y_predict = model.predict(X_test)
+            self.model.fit(X_train,y_train)
+            y_predict = self.model.predict(X_test)
 
             acc = accuracy_score(y_test,y_predict)
             acc_score.append(acc)
@@ -96,10 +99,27 @@ class D3_RMS():
 
         print_fold_accuracy = print('accuracy of each fold - {}'.format(acc_score))
         print_avg_accuracy = print('Avg accuracy : {}'.format(avg_acc_score))
-        ro = export_text(model, feature_names=self.f_names)
-        rules = self.get_rules(model, self.f_names, self.c_names)
-        print(rules)
+        ro = export_text(self.model, feature_names=self.f_names)
+        rules = self.get_rules(self.model, self.f_names, self.c_names)
+        print(y_predict)
 
+    def perform_D31(self):
+
+        X_test = ['Changing', 'unknown/defined later in the lifecycle', 
+            'Intensive', 'Large', 'Small (1-5)', 'Complex', 'After each cycle (Intensive testing)', 'High', 'Low','High', 'High', 
+            'Low','Low','Medium', 'Low']
+
+        y_test = ['Spiral']
+        
+        X_test = pd.DataFrame(X_test, columns=self.f_names)
+
+        X_test = self.convert_to_vectors(X_test)
+
+        y_predict = self.model.predict(X_test)
+
+        acc = accuracy_score(y_test,y_predict)
+
+        print(y_predict, acc) 
 
 
     def get_rules(self, tree, feature_names, class_names):
