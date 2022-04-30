@@ -1,5 +1,5 @@
 # A NOVEL RECOMMENDER SYSTEM TO DETERMINE THE OPTIMAL SOFTWARE DEVELOPMENT LIFECYCLE MODEL IN SOFTWARE PROJECTS 
-This is a readme file for the implementation of my dissertation project
+This is a readme file for the implementation of the algorithms for my dissertation project
 
 ## Background & Objectives
 Software Development Lifecycle (SDLC) methodologies provide the software development community with a structural framework to develop software products in an efficient and qualitative manner. Several recommender tools have been developed to facilitate the SDLC selection process; however, literature evidenced that the existing solutions in the market lack transparency when considering the algorithmic process of how the recommender tools arrive to a recommendation. This dissertation addresses the issue by developing a knowledge-based recommender system (RMS) that predicts the ideal SDLC methodology for different project scenarios. Explainable Artificial Intelligence techniques were utilised to facilitate user understanding of the predictions and the algorithmic process of the RMS.
