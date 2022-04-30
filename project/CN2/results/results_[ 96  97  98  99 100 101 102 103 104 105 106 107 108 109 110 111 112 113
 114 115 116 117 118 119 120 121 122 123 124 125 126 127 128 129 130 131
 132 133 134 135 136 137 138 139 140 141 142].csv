@@ -1,0 +1,118 @@
+,original_class,rule,predicted_class,rule_acc,num_examples,num_correct,num_wrong
+0,"101    Spiral
+102    Spiral
+105    Spiral
+134    Spiral
+140    Spiral
+142    Spiral
+Name: methodology, dtype: object","([('prototyping', 'High')], 'Spiral', 1)",Spiral,1.0,6,6,0
+1,"103        Scrum
+133    Waterfall
+Name: methodology, dtype: object","([('team_expertise', 'Low'), ('requirements_clarity', 'unknown/defined later in the lifecycle')], 'Scrum', 25)",Scrum,0.5,2,1,1
+2,"96                       Waterfall
+97                       Waterfall
+104                      Waterfall
+111                      Waterfall
+114                      Waterfall
+118                      Waterfall
+119                      Waterfall
+122                      Waterfall
+128    Hybrid: Scrum and Waterfall
+141    Hybrid: Scrum and Waterfall
+Name: methodology, dtype: object","([('testing_intensity', 'After development is done (Non-intensive testing)'), ('delivery_speed', 'Low')], 'Waterfall', 14)",Waterfall,0.8,10,8,2
+3,"109    Waterfall
+117    Waterfall
+129    Waterfall
+132    Waterfall
+135    Waterfall
+137    Waterfall
+138    Waterfall
+Name: methodology, dtype: object","([('project_size', 'Small')], 'Kanban', 1)",Kanban,1.0,7,7,0
+4,"109    Waterfall
+117    Waterfall
+129    Waterfall
+132    Waterfall
+135    Waterfall
+137    Waterfall
+138    Waterfall
+Name: methodology, dtype: object","([('team_expertise', 'Low')], 'RAD', 1)",zero coverage,0.0,0,0,0
+5,"124    Kanban
+Name: methodology, dtype: object","([('team_expertise', 'Medium'), ('user_participation', 'High')], 'Scrum', 4)",Scrum,1.0,1,1,0
+6,"123    Hybrid: Scrum and Waterfall
+125                         Kanban
+136                            RAD
+Name: methodology, dtype: object","([('team_expertise', 'Medium')], 'RAD', 1)",RAD,0.3333333333333333,3,1,2
+7,"116    Kanban
+139    Kanban
+Name: methodology, dtype: object","([('task_visualisation', 'High'), ('project_size', 'Medium')], 'Kanban', 11)",Kanban,1.0,2,2,0
+8,"126    Hybrid: Scrum and Waterfall
+Name: methodology, dtype: object","([('user_participation', 'Low')], 'Scrum', 1)",Scrum,1.0,1,1,0
+9,"107    Scrum
+108    Scrum
+110    Scrum
+112    Scrum
+113    Scrum
+Name: methodology, dtype: object","([('project_size', 'Medium'), ('requirements_volatility', 'Changing')], 'Scrum', 6)",Scrum,1.0,5,5,0
+10,"107    Scrum
+108    Scrum
+110    Scrum
+112    Scrum
+113    Scrum
+Name: methodology, dtype: object","([('task_visualisation', 'High'), ('risk_analysis', 'Low')], 'Hybrid: Scrum and Kanban', 3)",zero coverage,0.0,0,0,0
+11,"98     RAD
+106    RAD
+115    RAD
+120    RAD
+131    RAD
+Name: methodology, dtype: object","([('risk_analysis', 'Low'), ('requirements_volatility', 'Fixed')], 'RAD', 5)",RAD,1.0,5,5,0
+12,"98     RAD
+106    RAD
+115    RAD
+120    RAD
+131    RAD
+Name: methodology, dtype: object","([('project_size', 'Medium')], 'Spiral', 1)",zero coverage,0.0,0,0,0
+13,"98     RAD
+106    RAD
+115    RAD
+120    RAD
+131    RAD
+Name: methodology, dtype: object","([('risk_analysis', 'Low')], 'Scrum', 1)",zero coverage,0.0,0,0,0
+14,"98     RAD
+106    RAD
+115    RAD
+120    RAD
+131    RAD
+Name: methodology, dtype: object","([('testing_intensity', 'After development is done (Non-intensive testing)'), ('requirements_clarity', 'unknown/defined later in the lifecycle')], 'Hybrid: Scrum and Kanban', 2)",zero coverage,0.0,0,0,0
+15,"98     RAD
+106    RAD
+115    RAD
+120    RAD
+131    RAD
+Name: methodology, dtype: object","([('testing_intensity', 'After development is done (Non-intensive testing)')], 'Hybrid: Scrum and Waterfall', 1)",zero coverage,0.0,0,0,0
+16,"98     RAD
+106    RAD
+115    RAD
+120    RAD
+131    RAD
+Name: methodology, dtype: object","([('fund_avail', 'Low')], 'RAD', 1)",zero coverage,0.0,0,0,0
+17,"98     RAD
+106    RAD
+115    RAD
+120    RAD
+131    RAD
+Name: methodology, dtype: object","([('fund_avail', 'Medium'), ('prod_complexity', 'Complex')], 'Kanban', 5)",zero coverage,0.0,0,0,0
+18,"100    Hybrid: Scrum and Waterfall
+121    Hybrid: Scrum and Waterfall
+Name: methodology, dtype: object","([('requirements_clarity', 'understandable/early defined')], 'Hybrid: Scrum and Waterfall', 4)",Hybrid: Scrum and Waterfall,1.0,2,2,0
+19,"99    Hybrid: Scrum and Kanban
+Name: methodology, dtype: object","([('task_visualisation', 'High')], 'Hybrid: Scrum and Kanban', 2)",Hybrid: Scrum and Kanban,1.0,1,1,0
+20,"99    Hybrid: Scrum and Kanban
+Name: methodology, dtype: object","([('requirements_volatility', 'Fixed')], 'Hybrid: Scrum and Kanban', 1)",zero coverage,0.0,0,0,0
+21,"130    Scrum
+Name: methodology, dtype: object","([('team_size', 'Large (16....)')], 'Hybrid: Scrum and Waterfall', 2)",Hybrid: Scrum and Waterfall,1.0,1,1,0
+22,"130    Scrum
+Name: methodology, dtype: object","([('team_size', 'Small (1-5)')], 'Scrum', 1)",zero coverage,0.0,0,0,0
+23,"130    Scrum
+Name: methodology, dtype: object","([('prod_complexity', 'Simple')], 'Spiral', 1)",zero coverage,0.0,0,0,0
+24,"130    Scrum
+Name: methodology, dtype: object","([('requirements_volatility', 'Changing')], 'Hybrid: Scrum and Kanban', 1)",zero coverage,0.0,0,0,0
